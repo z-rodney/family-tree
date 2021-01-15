@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 const FamilyTree = require('./family-tree');
 // Comment above, and uncomment below for proven solution.
 // const FamilyTree = require('./solution');
